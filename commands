@@ -1,0 +1,3 @@
+npm init -y
+npm install node express fs path jsonwebtoken 
+node server.js
